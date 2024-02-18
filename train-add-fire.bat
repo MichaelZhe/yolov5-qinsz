@@ -1,0 +1,1 @@
+python .\train.py --cfg yolov5s-add-fire.yaml --weights .\yolov5s.pt --data add-fire.yaml --epochs 50 --batch-size 16 --device 0
